@@ -25,7 +25,7 @@ To get started with this demonstration, follow the instructions below:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/davraops/automated-documentation-demo.git
+    git clone https://github.com/wonderolabisi/automated-documentation.git
     cd automated-documentation-demo
     ```
 
